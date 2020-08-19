@@ -1,3 +1,3 @@
 # python_tutorials
-Leaning Python
+Learning Python
 Testing commits
